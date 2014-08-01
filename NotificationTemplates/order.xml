@@ -13,7 +13,7 @@
             <Created>2008-05-15T12:30:01.78</Created>
             <Modified>2008-05-15T12:30:01.78</Modified>
             <Discounts />
-			<SomeTestAttribute/>
+			<SomeTestAttribute></SomeTestAttribute>
             <OrderGroupId>131</OrderGroupId>
             <OrderFormId>141</OrderFormId>
             <ShippingMethodId>17995798-a2cc-43ad-81e8-bb932f6827e4</ShippingMethodId>
