@@ -12,7 +12,7 @@
           <Shipment>
             <Created>2008-05-15T12:30:01.78</Created>
             <Modified>2008-05-15T12:30:01.78</Modified>
-            <Discounts />
+            <Discounts345 />678
 			<SomeTestAttribute></SomeTestAttribute>
             <OrderGroupId>131</OrderGroupId>
             <OrderFormId>141</OrderFormId>
